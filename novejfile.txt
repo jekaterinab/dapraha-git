@@ -1,1 +1,3 @@
-ahoj lidi, pouzili jste git pull
+čau lidi, pouzili jste git pull
+
+a teď použiji git push
